@@ -110,7 +110,7 @@ ADMINS = (
 )
 
 # The sender for the aforementioned emails.
-SERVER_EMAIL = 'VNOJ: VNOI Online Judge <vnoj@vnoi.info>'
+SERVER_EMAIL = 'vnoj@vnoi.info'
 
 
 ################################################
