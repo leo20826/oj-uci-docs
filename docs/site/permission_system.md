@@ -1,6 +1,6 @@
 # Permission system
 
-The VNOJ's permission system is very extensive and allows fine-tuning a user's permissions. Here, we will document which permissions are required to perform certain tasks on the site. Any undocumented models means that they follow Django's default permission system of (`can_add_<model>`, `can_change_<model>`, `can_delete_<model>`, and `can_view_<model>`).
+The K23OJ's permission system is very extensive and allows fine-tuning a user's permissions. Here, we will document which permissions are required to perform certain tasks on the site. Any undocumented models means that they follow Django's default permission system of (`can_add_<model>`, `can_change_<model>`, `can_delete_<model>`, and `can_view_<model>`).
 
 ## Blog posts
 

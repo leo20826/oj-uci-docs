@@ -71,7 +71,7 @@ test_cases:
   dependencies: [1, 2]
 ```
 
-As VNOJ's YAML dialect supports dynamic keys, large `init.yml`s can be programmatically generated.
+As K23OJ's YAML dialect supports dynamic keys, large `init.yml`s can be programmatically generated.
 See the sample files for examples.
 
 ### Specifying cases with regexes

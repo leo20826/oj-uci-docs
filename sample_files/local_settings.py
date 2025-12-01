@@ -110,7 +110,7 @@ ADMINS = (
 )
 
 # The sender for the aforementioned emails.
-SERVER_EMAIL = 'VNOJ: VNOI Online Judge <vnoj@vnoi.info>'
+SERVER_EMAIL = 'online_judge@k23oj.io.vn'
 
 
 ################################################
@@ -136,11 +136,11 @@ STATIC_ROOT = '/tmp/static'
 ############################################
 
 ## DMOJ site display settings.
-SITE_NAME = 'VNOJ'
-SITE_FULL_URL = 'https://oj.vnoi.info'
-SITE_LONG_NAME = 'VNOJ: VNOI Online Judge'
+SITE_NAME = 'K23OJ'
+SITE_FULL_URL = 'https://k23oj.io.vn'
+SITE_LONG_NAME = 'K23OJ: VNOI Online Judge'
 SITE_ADMIN_EMAIL = 'admin@example.com'
-TERMS_OF_SERVICE_URL = '//oj.vnoi.info/tos/'  # Use a flatpage.
+TERMS_OF_SERVICE_URL = '//k23oj.io.vn/tos/'  # Use a flatpage.
 
 ## Media files settings.
 # This is the directory where all the media files are stored.

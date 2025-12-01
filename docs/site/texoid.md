@@ -1,8 +1,8 @@
 # Rendering LaTeX diagrams in problem statements
 
-!> Untested on VNOJ
+!> Untested on K23OJ
 
-The DMOJ platform is capable of rendering LaTeX documents onto problem statements. This can be useful for things like
+The K23OJ platform is capable of rendering LaTeX documents onto problem statements. This can be useful for things like
 drawing graphs with ease, porting over PDF resources, and so on. An example of this functionality can be seen live
 [here](https://dmoj.ca/problem/ds4), [here](https://dmoj.ca/problem/ccoqr16p3), and
 [here](https://dmoj.ca/problem/ccoqr16p1).

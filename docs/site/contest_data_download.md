@@ -1,6 +1,6 @@
 # Contest data downloads
 
-The VNOJ allows contest authors to download contest data. At the time of writing, only submission data can be downloaded.
+The K23OJ allows contest authors to download contest data. At the time of writing, only submission data can be downloaded.
 
 By default, this feature is disabled. To enable, uncomment the relevant settings in `local_settings.py`.
 

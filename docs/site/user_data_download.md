@@ -1,6 +1,6 @@
 # User data downloads
 
-The VNOJ allows users to download their data. At the time of writing, only user comment and submission data can be downloaded.
+The K23OJ allows users to download their data. At the time of writing, only user comment and submission data can be downloaded.
 
 By default, this feature is disabled. To enable, uncomment the relevant settings in `local_settings.py`.
 

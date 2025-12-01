@@ -1,6 +1,6 @@
 # Contest formats
 
-The VNOJ ships with 6 contest formats by default: Default, IOI, Codechef IOI Ranklist (henceforth shortened to simply Legacy IOI), ECOO, AtCoder, and ICPC.
+The K23OJ ships with 6 contest formats by default: Default, IOI, Codechef IOI Ranklist (henceforth shortened to simply Legacy IOI), ECOO, AtCoder, and ICPC.
 
 ## Default
 

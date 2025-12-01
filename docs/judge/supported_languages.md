@@ -1,6 +1,6 @@
 # Supported languages
 
-The DMOJ supports grading in [56 languages](https://github.com/VNOI-Admin/judge-server/tree/master/dmoj/executors):
+K23OJ supports grading in [56 languages](https://github.com/VNOI-Admin/judge-server/tree/master/dmoj/executors):
 Ada, Assembly (x64/x86), AWK, Brain\*\*\*\*,
 C (Clang/GCC), C#, C++14 (Clang/GCC),
 C++03/11/17/20, C11, COBOL, D, Dart, F#, Forth,
@@ -10,7 +10,7 @@ NASM64, OCaml, Pascal, Perl, PHP, Pike, Prolog,
 PyPy 2/3, Python 2/3, Racket, Ruby, Rust, Scala,
 Scheme, Sed, Swift, TCL, Text, Turing,
 V8 JavaScript, Visual Basic, Zig.
-All these languages are tested in production on the [DMOJ](https://dmoj.ca/).
+All these languages are tested in production on the [K23OJ](https://k23oj.io.vn/).
 
 As it stands, some languages are used more than others in the scope of competitive programming, so some executors have
 been tested more than others. As a result, they are more likely to be bug-free.
