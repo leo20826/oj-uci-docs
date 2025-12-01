@@ -1,6 +1,6 @@
 # SSL proxying for user content
 
-!> Untested on VNOJ
+!> Untested on K23OJ
 
 User-generated content (e.g., comments) poses a threat to site security, and can cause mixed-content warnings. If your site is served over HTTPS, this may be suboptimal - routing user content through a secure server can help.
 

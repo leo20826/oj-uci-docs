@@ -1,6 +1,6 @@
 # Managing problems through the site interface
 
-The VNOJ comes with an online interface for creating and editing problem statements as well as data.
+The K23OJ comes with an online interface for creating and editing problem statements as well as data.
 This guide is intended as an introduction to using these features for creating your own problems.
 
 ## Configuring site-managed data
@@ -20,8 +20,8 @@ and a title for your problem. **Make sure to mark yourself as an author**, as ot
 
 ![](https://i.imgur.com/bPlNZUR.png)
 
-Here you may edit your problem statement. The VNOJ features a rich Markdown-based syntax, with custom extensions for LaTeX-based display
-math, and Mathjax-based inline math. See [this template](https://raw.githubusercontent.com/VNOI-Admin/vnoj-docs/master/sample_files/problem_markdown_example.md.txt) for a full feature example (you may copy/paste
+Here you may edit your problem statement. The K23OJ features a rich Markdown-based syntax, with custom extensions for LaTeX-based display
+math, and Mathjax-based inline math. See [this template](https://raw.githubusercontent.com/huythedev/k23oj-docs/master/sample_files/problem_markdown_example.md.txt) for a full feature example (you may copy/paste
 its content into your editor).
 
 There are many options controlling your problem described in the editor, that you may use to customize the execution of your problem.
@@ -33,7 +33,7 @@ click the _View on site_ button.
 
 ## Editing test data
 
-Internally, the VNOJ uses a YAML-based format for describing problem data, which you may read about [here](/problem_format/problem_format.md#problem-format).
+Internally, the K23OJ uses a YAML-based format for describing problem data, which you may read about [here](/problem_format/problem_format.md#problem-format).
 The site provides an interface for managing problem data, removing the need to drop down to YAML configuration for most problems.
 
 On the problem page, click the _Edit test data_ link to open up the test data editor.

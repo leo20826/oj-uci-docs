@@ -1,6 +1,6 @@
 # reCAPTCHA spam registration prevention
 
-!> Untested on VNOJ
+!> Untested on K23OJ
 
 If you run DMOJ for any prolonged period of time, eventually spambots will begin registering in large numbers.
 
@@ -18,7 +18,7 @@ In `local_settings.py`, set `RECAPTCHA_PUBLIC_KEY` to the site key, and `RECAPTC
 First, install `django-recaptcha2` in the site virtual environment.
 
 ```shell-session
-(vnojsite) $ pip3 install django-recaptcha2
+(venv) $ pip3 install django-recaptcha2
 ```
 
 Finally, open `local_settings.py` in your editor of choice, and add `snowpenguin.django.recaptcha2` to the end of`INSTALLED_APPS`.
