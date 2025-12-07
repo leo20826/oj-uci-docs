@@ -1,4 +1,4 @@
-# VNOJ Documentation
+# OJ-UCI Documentation
 
 Documentation for the [VNOJ](https://github.com/VNOI-Admin/OJ) system.
 
