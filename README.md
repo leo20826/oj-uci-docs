@@ -1,7 +1,7 @@
 # OJ-UCI Documentation
 
-Documentation for the [VNOJ](https://github.com/VNOI-Admin/OJ) system.
+Documentation for the [OJ](https://github.com/leo20826/oj-uci.git) system.
 
-VNOJ is based on [DMOJ](https://github.com/DMOJ/online-judge) and serves as the official online judge of [VNOI](https://vnoi.info/).
+OJ is based on [VNOI](https://github.com/VNOI-Admin/OJ.git) and serves as the official online judge of [UCI](https://www.uci.cu/).
 
 Access the documentation at <https://vnoi-admin.github.io/vnoj-docs>.
